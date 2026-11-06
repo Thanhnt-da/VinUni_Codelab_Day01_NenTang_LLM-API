@@ -1,4 +1,4 @@
-# bản Readme này được copy trực tiếp từ repo gốc của Codelab Day1, các file code và lệnh là học viên tự làm thêm theo hướng dẫn.
+# bản Readme này được copy trực tiếp từ repo gốc của Codelab Day1, bài làm của học viên thực tế là trong file solution.py
 # Student Guide: Nền tảng LLM API (Step-by-Step Walkthrough)
 
 > [!NOTE]
